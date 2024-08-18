@@ -10,7 +10,7 @@ A Weather Website that provides current weather information based on your locati
 - **API Integration**: Seamlessly fetches real-time weather data from a reliable weather API.
 
 ## Demo
-🔗 [Live Demo - Weather App](https://weather-app-himanshu.netlify.app/)
+🔗 [Live Demo - Weather App](https://weather-app-ardhendu-shekhar.vercel.app/)
 
 ## Technologies Used
 - **HTML5**
